@@ -2,4 +2,4 @@ theme: jekyll-theme-architect
 title: Ryuki Ida
 description: Architect is a theme for GitHub Pages.
 plugins:
-- jekyll-sitemap
+  - jekyll-sitemap
