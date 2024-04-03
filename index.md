@@ -7,6 +7,11 @@ title: Ryuki Ida
 - e-mail: sd24501@toyota-ti.ac.jp
 - [Google Scholar](https://scholar.google.co.jp/citations?user=xeX5WPoAAAAJ&hl=ja&oi=ao)
 
+## Education
+- Bachelor of engineering at Toyota Technological Institute, Nagoya, Japan, 2018/4-2022/3
+- Master of engineering at Toyota Technological Institute, Nagoya, Japan, 2022/4-2024/3
+- Ph.D. student at Toyota Technological Institute, Nagoya, Japan, 2024/4-Present
+
 ## Research Interests
 - Knowlege Graph
 - Natural Language Processing
