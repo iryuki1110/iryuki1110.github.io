@@ -32,7 +32,7 @@ title: Ryuki Ida
 - **Ryuki Ida**, Makoto Miwa, and Yutaka Sasaki. Text Classification using a Document Graph with Nodes Initialized with Textual Information. Sixth International Workshop on Symbolic-Neural Learning (SNL-2022). July 2022.
 - **井田龍希**, 片桐脩那, 三輪誠, 佐々木裕. データベースのテキスト情報を追加した大規模文献グラフを用いた表現学習. NLP若手の会 第17回シンポジウム, August 2022.
 - Koshi Yamada, **Ryuki Ida**, Tomoki Tsujimura, Kohei Makino, Makoto Miwa, and Yutaka Sasaki. Span-based and Question Answering-based Medication Event Extraction. 2022 n2c2/OHNLP Shared Task and Workshop. November 2022. (**ranked 1st on the track**)
-- **Ryuki Ida**, Yutaka Sasaki, and Makoto Miwa. Knowledge Graph Embedding to Model Many-to-One Relations in a Literature Graph. Eighth International Workshop on Symbolic-Neural Learning (SNL-2024). July 2024.
+- **Ryuki Ida**, Yutaka Sasaki, and Makoto Miwa. Knowledge Graph Embedding to Model Many-to-One Relations in a Literature Graph. Eighth International Workshop on Symbolic-Neural Learning (SNL-2024). June 2024.
 - **井田龍希**, 三輪誠. 書誌情報の複数項目との関係を考慮した柔軟な論文検索システム. NLP若手の会 第19回シンポジウム, September 2024.
 
 ### Domestic conferences and Workshops (Non Peer-reviewed)
@@ -42,3 +42,4 @@ title: Ryuki Ida
 - **井田龍希**, 三輪誠, 佐々木裕. 文書外の書誌情報と用語情報を組み込んだ文書分類. 言語処理学会第29回年次大会発表論文集 (NLP2023), March 2023．[paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/C11-3.pdf)
 - 片桐脩那, **井田龍希**, 三輪誠, 佐々木裕. テキスト情報の表現を利用した文献グラフの表現学習. 言語処理学会第29回年次大会発表論文集 (NLP2023), March 2023．[paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q2-10.pdf)
 - **井田 龍希**，三輪 誠，佐々木 裕．文献グラフにおける多項関係の埋め込み．言語処理学会第30回年次大会発表論文集 (NLP2024), March 2024．[paper](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P10-17.pdf)
+- **井田 龍希**，西出 隆盛，三輪 誠．LLMを用いた交通分野固有表現抽出データセットの自動構築．言語処理学会第31回年次大会発表論文集 (NLP2025), March 2025．[paper](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q10-17.pdf)
