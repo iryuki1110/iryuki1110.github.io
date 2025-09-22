@@ -34,6 +34,8 @@ title: Ryuki Ida
 - Koshi Yamada, **Ryuki Ida**, Tomoki Tsujimura, Kohei Makino, Makoto Miwa, and Yutaka Sasaki. Span-based and Question Answering-based Medication Event Extraction. 2022 n2c2/OHNLP Shared Task and Workshop. November 2022. (**ranked 1st on the track**)
 - **Ryuki Ida**, Yutaka Sasaki, and Makoto Miwa. Knowledge Graph Embedding to Model Many-to-One Relations in a Literature Graph. Eighth International Workshop on Symbolic-Neural Learning (SNL-2024). June 2024.
 - **井田龍希**, 三輪誠. 書誌情報の複数項目との関係を考慮した柔軟な論文検索システム. NLP若手の会 第19回シンポジウム, September 2024.
+- **井田龍希**, 三輪誠. KGとLLMに基づく条件間の相互関係を捉える拡散知識グラフ埋め込み. NLP若手の会 第20回シンポジウム, September 2025.
+- 加藤 一翔, **井田龍希**, 三輪誠. 文と構造化情報のペアを直接生成するLLMによるデータ拡張. NLP若手の会 第20回シンポジウム, September 2025.
 
 ### Domestic conferences and Workshops (Non Peer-reviewed)
 
