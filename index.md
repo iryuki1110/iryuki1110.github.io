@@ -45,3 +45,5 @@ title: Ryuki Ida
 - 片桐脩那, **井田龍希**, 三輪誠, 佐々木裕. テキスト情報の表現を利用した文献グラフの表現学習. 言語処理学会第29回年次大会発表論文集 (NLP2023), March 2023．[paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q2-10.pdf)
 - **井田 龍希**，三輪 誠，佐々木 裕．文献グラフにおける多項関係の埋め込み．言語処理学会第30回年次大会発表論文集 (NLP2024), March 2024．[paper](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P10-17.pdf)
 - **井田 龍希**，西出 隆盛，三輪 誠．LLMを用いた交通分野固有表現抽出データセットの自動構築．言語処理学会第31回年次大会発表論文集 (NLP2025), March 2025．[paper](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q10-17.pdf)
+- **井田 龍希**，三輪 誠．信頼できる知識グラフ推論のための評価リソースの自動構築．言語処理学会第32回年次大会発表論文集 (NLP2026), March 2026．[paper](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/C5-13.pdf)
+- 加藤 一翔，**井田 龍希**，三輪 誠．文と構造化情報のペアを同時生成する大規模言語モデルによるデータ拡張．言語処理学会第32回年次大会発表論文集 (NLP2026), March 2026．[paper](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/Q4-24.pdf)
