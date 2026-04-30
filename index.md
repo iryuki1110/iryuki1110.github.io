@@ -13,8 +13,8 @@ title: Ryuki Ida
 - Ph.D. student at Toyota Technological Institute, Nagoya, Japan, 2024/4-Present
 
 ## Research Interests
-- Knowlege Graph
-- Natural Language Processing
+- Knowledge Graph (Knowledge Graph Embedding, Hypergraph)
+- Natural Language Processing (Large Language Models, Information Extraction)
 
 ## Publication List
 
@@ -47,3 +47,7 @@ title: Ryuki Ida
 - **井田 龍希**，西出 隆盛，三輪 誠．LLMを用いた交通分野固有表現抽出データセットの自動構築．言語処理学会第31回年次大会発表論文集 (NLP2025), March 2025．[paper](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q10-17.pdf)
 - **井田 龍希**，三輪 誠．信頼できる知識グラフ推論のための評価リソースの自動構築．言語処理学会第32回年次大会発表論文集 (NLP2026), March 2026．[paper](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/C5-13.pdf)
 - 加藤 一翔，**井田 龍希**，三輪 誠．文と構造化情報のペアを同時生成する大規模言語モデルによるデータ拡張．言語処理学会第32回年次大会発表論文集 (NLP2026), March 2026．[paper](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/Q4-24.pdf)
+
+## Grants / Projects
+- **キオクシア株式会社 2025年度キオクシア奨励研究**
+  「複雑な情報の関連性を捉えるハイパーグラフ表現学習とその大規模言語モデルへの応用」 (**研究分担者**)
