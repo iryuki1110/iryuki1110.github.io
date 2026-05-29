@@ -2,6 +2,8 @@
 title: Ryuki Ida
 ---
 
+<img src="images/profile.jpg" width="150" alt="Ryuki Ida">
+
 ## Contact
 
 - e-mail: sd24501@toyota-ti.ac.jp
