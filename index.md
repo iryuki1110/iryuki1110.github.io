@@ -3,7 +3,7 @@ title: Ryuki Ida
 ---
 
 <div style="text-align: center; margin-bottom: 30px;">
-  <img src="images/profile.jpg" alt="Ryuki Ida" style="width: 300px; max-width: 100%; height: auto; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="profile.jpg" alt="Ryuki Ida" style="width: 300px; max-width: 100%; height: auto; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ## Contact
