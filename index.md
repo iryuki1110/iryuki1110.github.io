@@ -2,7 +2,7 @@
 title: Ryuki Ida
 ---
 
-<img src="images/profile.jpg" width="150" alt="Ryuki Ida">
+<img src="profile.jpg" width="150" alt="Ryuki Ida">
 
 ## Contact
 
