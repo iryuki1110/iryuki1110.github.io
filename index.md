@@ -40,6 +40,8 @@ title: Ryuki Ida
 - **井田龍希**, 三輪誠. 書誌情報の複数項目との関係を考慮した柔軟な論文検索システム. NLP若手の会 第19回シンポジウム, September 2024.
 - **井田龍希**, 三輪誠. KGとLLMに基づく条件間の相互関係を捉える拡散知識グラフ埋め込み. NLP若手の会 第20回シンポジウム, September 2025.
 - 加藤 一翔, **井田龍希**, 三輪誠. 文と構造化情報のペアを直接生成するLLMによるデータ拡張. NLP若手の会 第20回シンポジウム, September 2025.
+- **Ryuki Ida**, Makoto Miwa. LLM-Driven Induction of Expressive Schemas for Interpretable Knowledge Graph Completion. Tenth International Workshop on Symbolic-Neural Learning (SNL-2026). June 2026.
+- 平松優弥, **井田龍希**, 三輪誠. 実テキストを参照した多様なLLMデータ拡張. NLP若手の会 第21回シンポジウム, August 2026.
 
 ### Domestic conferences and Workshops (Non Peer-reviewed)
 
